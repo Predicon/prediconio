@@ -182,6 +182,11 @@ hr.small {
     height: 800px;
     text-align: center;
 }
+
+.team-content {
+    margin: 50px;
+    text-align:center;
+}
 /* Callout */
 
 .callout {
