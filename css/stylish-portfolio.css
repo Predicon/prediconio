@@ -187,6 +187,11 @@ hr.small {
     margin: 200px;
     text-align: center;
 }
+
+.contact-email {
+    font-color: white;
+    background-color: black;
+}
 /* Callout */
 
 .callout {
